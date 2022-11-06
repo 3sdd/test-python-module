@@ -1,5 +1,5 @@
 
-from lib.module import print_test
+from libs.module import print_test
 
 def main():
     print("main")
